@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968783830880",
+    "project_id": "olx-prog4",
+    "storage_bucket": "olx-prog4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968783830880:android:5d5bef4c8b57b19a0a4805",
+        "android_client_info": {
+          "package_name": "com.example.progivavaliacaofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968783830880-s05kc6g26lmnc2eqtalvavvhbod2ed1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtreFEnc5ArVF3BV5Ql2hqFfMuYQR81CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968783830880-s05kc6g26lmnc2eqtalvavvhbod2ed1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
